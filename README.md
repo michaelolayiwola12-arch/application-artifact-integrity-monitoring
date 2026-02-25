@@ -67,7 +67,7 @@ Supply chain attacks
 
 Build artifact manipulation
 
-Insider modification
+Insider modification:
 
 Unauthorized file replacement
 
@@ -91,7 +91,7 @@ SHA-256 hashing
 
 File integrity monitoring concepts
 
-Why This Project Matters
+Why This Project Matters:
 
 Modern application security extends beyond code vulnerabilities.
 
